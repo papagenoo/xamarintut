@@ -15,7 +15,6 @@ namespace Hello_MultiScreen_iPhone
 		// class-level declarations
 		UIWindow window;
 
-
 		//
 		// This method is invoked when the application has loaded and is ready to run. In this
 		// method you should instantiate the window, load the UI into it and then make the window
@@ -40,7 +39,7 @@ namespace Hello_MultiScreen_iPhone
 			//---- set the root view controller on the window. the nav 
 			// controller will handle the rest 
 			this.window.RootViewController = rootNavigationController; 
-			this.window.MakeKeyAndVisible (); 
+			//this.window.MakeKeyAndVisible (); 
 			return true; 
 		}
 	}
