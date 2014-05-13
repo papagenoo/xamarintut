@@ -1,0 +1,8 @@
+/Users/nt/Projects/ProteinTracker/Core/obj/Debug/.NETPortable,Version=v4.0,Profile=Profile158.AssemblyAttribute.cs
+/Users/nt/Projects/ProteinTracker/Core/bin/Debug/Core.dll.mdb
+/Users/nt/Projects/ProteinTracker/Core/bin/Debug/Core.dll
+/Users/nt/Projects/ProteinTracker/Core/obj/Debug/Core.dll
+/Users/nt/Projects/ProteinTracker/Core/obj/Debug/Core.dll.mdb
+/Users/nt/Projects/ProteinTracker/Core/bin/Debug/Newtonsoft.Json.dll
+/Users/nt/Projects/ProteinTracker/Core/bin/Debug/SocketIOClient.dll
+/Users/nt/Projects/ProteinTracker/Core/bin/Debug/WebSocket4Net.dll

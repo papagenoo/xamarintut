@@ -1,0 +1,5 @@
+/Users/max/Projects/ProteinTracker/SocketIO/obj/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/max/Projects/ProteinTracker/bin/debug/SocketIOClient.dll.mdb
+/Users/max/Projects/ProteinTracker/bin/debug/SocketIOClient.dll
+/Users/max/Projects/ProteinTracker/SocketIO/obj/Debug/SocketIOClient.dll
+/Users/max/Projects/ProteinTracker/SocketIO/obj/Debug/SocketIOClient.dll.mdb

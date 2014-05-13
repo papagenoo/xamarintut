@@ -1,0 +1,27 @@
+# Version: 7.2.1.42 (773c77c)
+# [first argument, ignore] # /Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/Hello_MultiScreen_iPhone.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/Hello_MultiScreen_iPhone.exe \

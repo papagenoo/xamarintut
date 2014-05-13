@@ -1,0 +1,35 @@
+# Version: 7.2.1.42 (773c77c)
+# [first argument, ignore] # /Users/nt/Projects/ProteinTracker/HelloWorld_iPhone/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/nt/Projects/ProteinTracker/HelloWorld_iPhone/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/nt/Projects/ProteinTracker/HelloWorld_iPhone/bin/iPhoneSimulator/Debug/HelloWorld_iPhone.app \
+	-r \
+	/Users/nt/Projects/ProteinTracker/Core/bin/Debug/Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/nt/Projects/ProteinTracker/vendor/Newtonsoft.Json.dll \
+	-r \
+	/Users/nt/Projects/ProteinTracker/bin/debug/SocketIOClient.dll \
+	-r \
+	/Users/nt/Projects/ProteinTracker/bin/debug/WebSocket4Net.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/nt/Projects/ProteinTracker/HelloWorld_iPhone/bin/iPhoneSimulator/Debug/HelloWorld_iPhone.exe \
