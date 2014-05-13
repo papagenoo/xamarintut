@@ -5,16 +5,16 @@
       <File FileName="HelloWorld_iPhone/HelloWorld_iPhoneViewController.designer.cs" Line="1" Column="1" />
       <File FileName="HelloWorld_iPhone/HelloWorld_iPhoneViewController.cs" Line="1" Column="1" />
       <File FileName="HelloWorld_iPhone/Main.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld_iPhone/AppDelegate.cs" Line="23" Column="4" />
+      <File FileName="HelloWorld_iPhone/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="Core/MyClass.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld_iPhone/EventClient.cs" Line="7" Column="18" />
-      <File FileName="Hello_MultiScreen_iPhone/AppDelegate.cs" Line="42" Column="10" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.cs" Line="10" Column="39" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.designer.cs" Line="9" Column="35" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.cs" Line="6" Column="35" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.designer.cs" Line="9" Column="35" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.designer.cs" Line="13" Column="2" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.cs" Line="6" Column="35" />
+      <File FileName="HelloWorld_iPhone/EventClient.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/AppDelegate.cs" Line="21" Column="42" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
