@@ -1,14 +1,14 @@
 # Version: 7.2.1.42 (773c77c)
-# [first argument, ignore] # /Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/mtouch.exe
+# [first argument, ignore] # /Users/max/Projects/xamarintut/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/mtouch.exe
 /Developer/MonoTouch/usr/bin/mtouch \
 	-sdkroot \
 	/Applications/Xcode.app/Contents/Developer \
 	--cache \
-	/Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/max/Projects/xamarintut/Hello_MultiScreen_iPhone/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--nomanifest \
 	--nosign \
 	-sim \
-	/Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/Hello_MultiScreen_iPhone.app \
+	/Users/max/Projects/xamarintut/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/Hello_MultiScreen_iPhone.app \
 	-r \
 	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
 	-r \
@@ -20,8 +20,8 @@
 	-debug \
 	-nolink \
 	-sdk \
-	7.0 \
+	7.1 \
 	-targetver \
 	7.0 \
 	--abi=i386 \
-	/Users/nt/Projects/ProteinTracker/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/Hello_MultiScreen_iPhone.exe \
+	/Users/max/Projects/xamarintut/Hello_MultiScreen_iPhone/bin/iPhoneSimulator/Debug/Hello_MultiScreen_iPhone.exe \
