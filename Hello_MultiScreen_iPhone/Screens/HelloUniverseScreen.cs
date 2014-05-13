@@ -3,12 +3,13 @@ using System.Drawing;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace Hello_MultiScreen_iPhonev
+namespace Hello_MultiScreen_iPhone
 {
 	public partial class HelloUniverseScreen : UIViewController
 	{
 		public HelloUniverseScreen () : base ("HelloUniverseScreen", null)
 		{
+			this.Title = "Universe!";
 		}
 
 		public override void DidReceiveMemoryWarning ()

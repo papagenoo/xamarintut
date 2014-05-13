@@ -31,15 +31,20 @@ namespace Hello_MultiScreen_iPhone
 
 			//---- instantiate a new home screen 
 			HomeScreen homeScreen = new HomeScreen(); 
+			//HelloWorldScreen helloWorldScreen = new HelloWorldScreen ();
+			//HelloUniverseScreen helloUniverseScreen = new HelloUniverseScreen ();
+
 
 			//---- add the home screen to the navigation controller 
 			// (it'll be the top most screen) 
 			rootNavigationController.PushViewController(homeScreen, false); 
+			//rootNavigationController.PushViewController(helloWorldScreen, false); 
+			//rootNavigationController.PushViewController(helloUniverseScreen, false); 
 
 			//---- set the root view controller on the window. the nav 
 			// controller will handle the rest 
 			this.window.RootViewController = rootNavigationController; 
-			//this.window.MakeKeyAndVisible (); 
+			this.window.MakeKeyAndVisible (); 
 			return true; 
 		}
 	}
