@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B393752B-F66E-4331-AB1F-A1D1C5991458</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hello_MultiScreen_iPhone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D71B548-35B4-4F23-B2FE-ADD693090DB0</key>
+		<string>https://github.com/papagenoo/xamarintut.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hello_MultiScreen_iPhone/obj/Xcode/0/Hello_MultiScreen_iPhone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D71B548-35B4-4F23-B2FE-ADD693090DB0</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/papagenoo/xamarintut.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D71B548-35B4-4F23-B2FE-ADD693090DB0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D71B548-35B4-4F23-B2FE-ADD693090DB0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xamarintut</string>
+		</dict>
+	</array>
+</dict>
+</plist>

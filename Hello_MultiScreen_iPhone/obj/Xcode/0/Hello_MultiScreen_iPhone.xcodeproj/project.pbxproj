@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		380339650000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B9446030000000000000000 /* UIKit.framework */; };
+		1998DC980000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D29E9360000000000000000 /* MapKit.framework */; };
+		2ECC45300000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 325D51CE0000000000000000 /* Foundation.framework */; };
+		223727790000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25C834170000000000000000 /* CoreGraphics.framework */; };
+		2B50EA2A0000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EE1F6C80000000000000000 /* Default-568h@2x.png */; };
+		8452C2000000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4155F6000000000000000000 /* Info.plist */; };
+		2EAF13AC0000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3240204A0000000000000000 /* Entitlements.plist */; };
+		2037FE180000000000000000 /* HelloUniverseScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23C90AB60000000000000000 /* HelloUniverseScreen.xib */; };
+		70DC2AA00000000000000000 /* HelloWorldScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A9ECF4800000000000000000 /* HelloWorldScreen.xib */; };
+		3505A0780000000000000000 /* HomeScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3896AD160000000000000000 /* HomeScreen.xib */; };
+		130A370D0000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 169B43AB0000000000000000 /* AppDelegate.h */; };
+		310ECDA20000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 349FDA400000000000000000 /* AppDelegate.m */; };
+		9D342D800000000000000000 /* HelloUniverseScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 2F2CD5C50000000000000000 /* HelloUniverseScreen.h */; };
+		CF31BF000000000000000000 /* HelloUniverseScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 4603E5D00000000000000000 /* HelloUniverseScreen.m */; };
+		27E468000000000000000000 /* HelloWorldScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 60F531E00000000000000000 /* HelloWorldScreen.h */; };
+		2EC70F8D0000000000000000 /* HelloWorldScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 32581C2B0000000000000000 /* HelloWorldScreen.m */; };
+		13EDBF5E0000000000000000 /* HomeScreen.h in Sources */ = {isa = PBXBuildFile; fileRef = 177ECBFC0000000000000000 /* HomeScreen.h */; };
+		1C8C0A3F0000000000000000 /* HomeScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 201D16DD0000000000000000 /* HomeScreen.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F33811500000000000000000 /* Hello_MultiScreen_iPhone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Hello_MultiScreen_iPhone.app"; path = "Hello_MultiScreen_iPhone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B9446030000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		1D29E9360000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		325D51CE0000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		25C834170000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		2EE1F6C80000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		4155F6000000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		3240204A0000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		23C90AB60000000000000000 /* HelloUniverseScreen.xib */ = {isa = PBXFileReference; name = "HelloUniverseScreen.xib"; path = "Screens/HelloUniverseScreen.xib"; sourceTree = "<group>"; };
+		A9ECF4800000000000000000 /* HelloWorldScreen.xib */ = {isa = PBXFileReference; name = "HelloWorldScreen.xib"; path = "Screens/HelloWorldScreen.xib"; sourceTree = "<group>"; };
+		3896AD160000000000000000 /* HomeScreen.xib */ = {isa = PBXFileReference; name = "HomeScreen.xib"; path = "Screens/HomeScreen.xib"; sourceTree = "<group>"; };
+		169B43AB0000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		349FDA400000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		2F2CD5C50000000000000000 /* HelloUniverseScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "HelloUniverseScreen.h"; path = "HelloUniverseScreen.h"; sourceTree = "<group>"; };
+		4603E5D00000000000000000 /* HelloUniverseScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "HelloUniverseScreen.m"; path = "HelloUniverseScreen.m"; sourceTree = "<group>"; };
+		60F531E00000000000000000 /* HelloWorldScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "HelloWorldScreen.h"; path = "HelloWorldScreen.h"; sourceTree = "<group>"; };
+		32581C2B0000000000000000 /* HelloWorldScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "HelloWorldScreen.m"; path = "HelloWorldScreen.m"; sourceTree = "<group>"; };
+		177ECBFC0000000000000000 /* HomeScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "HomeScreen.h"; path = "HomeScreen.h"; sourceTree = "<group>"; };
+		201D16DD0000000000000000 /* HomeScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "HomeScreen.m"; path = "HomeScreen.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2F7FD5BF0000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				380339650000000000000000 /* UIKit.framework in Frameworks */,
+				1998DC980000000000000000 /* MapKit.framework in Frameworks */,
+				2ECC45300000000000000000 /* Foundation.framework in Frameworks */,
+				223727790000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F99474D00000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				3A32FB990000000000000000 /* Hello_MultiScreen_iPhone */,
+				3FA600140000000000000000 /* Frameworks */,
+				4E6217300000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4E6217300000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F33811500000000000000000 /* Hello_MultiScreen_iPhone.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		3FA600140000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3B9446030000000000000000 /* UIKit.framework */,
+				1D29E9360000000000000000 /* MapKit.framework */,
+				325D51CE0000000000000000 /* Foundation.framework */,
+				25C834170000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		3A32FB990000000000000000 /* Hello_MultiScreen_iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				169B43AB0000000000000000 /* AppDelegate.h */,
+				2EE1F6C80000000000000000 /* Default-568h@2x.png */,
+				3240204A0000000000000000 /* Entitlements.plist */,
+				2F2CD5C50000000000000000 /* HelloUniverseScreen.h */,
+				60F531E00000000000000000 /* HelloWorldScreen.h */,
+				177ECBFC0000000000000000 /* HomeScreen.h */,
+				4155F6000000000000000000 /* Info.plist */,
+				392F566A0000000000000000 /* Screens */,
+				283D9FA50000000000000000 /* Supporting Files */,
+			);
+			name = "Hello_MultiScreen_iPhone";
+			sourceTree = "<group>";
+		};
+		392F566A0000000000000000 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				23C90AB60000000000000000 /* HelloUniverseScreen.xib */,
+				A9ECF4800000000000000000 /* HelloWorldScreen.xib */,
+				3896AD160000000000000000 /* HomeScreen.xib */,
+			);
+			name = "Screens";
+			sourceTree = "<group>";
+		};
+		283D9FA50000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				349FDA400000000000000000 /* AppDelegate.m */,
+				4603E5D00000000000000000 /* HelloUniverseScreen.m */,
+				32581C2B0000000000000000 /* HelloWorldScreen.m */,
+				201D16DD0000000000000000 /* HomeScreen.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3E7B1E700000000000000000 /* Hello_MultiScreen_iPhone */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4805B3B00000000000000000 /* Build configuration list for PBXNativeTarget "Hello_MultiScreen_iPhone" */;
+			buildPhases = (
+				1A198A0B0000000000000000 /* Sources */,
+				2F7FD5BF0000000000000000 /* Frameworks */,
+				304299600000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hello_MultiScreen_iPhone";
+			productName = "Hello_MultiScreen_iPhone";
+			productReference = F33811500000000000000000 /* Hello_MultiScreen_iPhone.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		39348C0D0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 363C28C30000000000000000 /* Build configuration list for PBXProject "Hello_MultiScreen_iPhone" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F99474D00000000000000000;
+			productRefGroup = 4E6217300000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3E7B1E700000000000000000 /* Hello_MultiScreen_iPhone */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		304299600000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B50EA2A0000000000000000 /* Default-568h@2x.png in Resources */,
+				8452C2000000000000000000 /* Info.plist in Resources */,
+				2EAF13AC0000000000000000 /* Entitlements.plist in Resources */,
+				2037FE180000000000000000 /* HelloUniverseScreen.xib in Resources */,
+				70DC2AA00000000000000000 /* HelloWorldScreen.xib in Resources */,
+				3505A0780000000000000000 /* HomeScreen.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1A198A0B0000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				130A370D0000000000000000 /* AppDelegate.h in Sources */,
+				310ECDA20000000000000000 /* AppDelegate.m in Sources */,
+				9D342D800000000000000000 /* HelloUniverseScreen.h in Sources */,
+				CF31BF000000000000000000 /* HelloUniverseScreen.m in Sources */,
+				27E468000000000000000000 /* HelloWorldScreen.h in Sources */,
+				2EC70F8D0000000000000000 /* HelloWorldScreen.m in Sources */,
+				13EDBF5E0000000000000000 /* HomeScreen.h in Sources */,
+				1C8C0A3F0000000000000000 /* HomeScreen.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		37B85A680000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		2B8902E90000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "Hello_MultiScreen_iPhone";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		363C28C30000000000000000 /* Build configuration list for PBXProject "Hello_MultiScreen_iPhone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37B85A680000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		4805B3B00000000000000000 /* Build configuration list for PBXNativeTarget "Hello_MultiScreen_iPhone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B8902E90000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 39348C0D0000000000000000 /* Project object */;
+}

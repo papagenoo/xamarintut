@@ -1,20 +1,13 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hello_MultiScreen_iPhone/AppDelegate.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionView/CollectionViewViewController.cs">
     <Files>
-      <File FileName="HelloWorld_iPhone/HelloWorld_iPhoneViewController.designer.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld_iPhone/HelloWorld_iPhoneViewController.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld_iPhone/Main.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld_iPhone/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Core/MyClass.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld_iPhone/EventClient.cs" Line="1" Column="1" />
-      <File FileName="Hello_MultiScreen_iPhone/AppDelegate.cs" Line="21" Column="42" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.cs" Line="1" Column="1" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.designer.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.cs" Line="82" Column="64" />
+      <File FileName="Hello_MultiScreen_iPhone/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.cs" Line="1" Column="1" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloWorldScreen.designer.cs" Line="1" Column="1" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.designer.cs" Line="1" Column="1" />
-      <File FileName="Hello_MultiScreen_iPhone/Screens/HomeScreen.cs" Line="1" Column="1" />
+      <File FileName="Hello_MultiScreen_iPhone/Screens/HelloUniverseScreen.cs" Line="1" Column="1" />
+      <File FileName="CollectionView/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CollectionView/CollectionViewViewController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
